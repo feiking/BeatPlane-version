@@ -1,0 +1,1 @@
+cmd_/mnt/hgfs/D/编程工作区/project_2/sourceCode/buttonDr/button.ko := arm-linux-ld -EL -r  -T /usr/src/linux-2.6.38/scripts/module-common.lds --build-id  -o /mnt/hgfs/D/编程工作区/project_2/sourceCode/buttonDr/button.ko /mnt/hgfs/D/编程工作区/project_2/sourceCode/buttonDr/button.o /mnt/hgfs/D/编程工作区/project_2/sourceCode/buttonDr/button.mod.o
